@@ -1,1 +1,6 @@
 node_modules
+
+ git config --global user.email "siddharthpanchali085@gmail.com"
+   git config --global user.name "Siddharth Panchali"
+
+      git remote add origin https://github.com/sid1565/cypherox_task
